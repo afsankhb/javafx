@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"javafx1","c":"Counter","l":"Counter()","url":"%3Cinit%3E()"},{"p":"javafx1","c":"Counter","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"javafx1","c":"Counter","l":"processInput()"},{"p":"javafx1","c":"Counter","l":"start(Stage)","url":"start(javafx.stage.Stage)"}]
